@@ -51,7 +51,7 @@ counter:
   archive_posts:
     zero: 暂无日志。
     one: 目前共计 1 篇日志。
-    other: "目前共计 %d 篇日志。"
+    other: "共计 %d 篇."
 
 state:
   posts: 日志
@@ -60,14 +60,14 @@ state:
   categories: 分类
 
 cheers:
-  um: 嗯..
+  um: ...
   ok: OK
   nice: 好
   good: 很好
   great: 非常好
   excellent: 太棒了
 
-keep_on: 继续努力。
+keep_on: ...
 
 symbol:
   comma: '， '
